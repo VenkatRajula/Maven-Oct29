@@ -13,7 +13,8 @@ public class App
         System.out.println( "Hello World!" );
     {
         System.out.println( "Welcome to Devops with GCP!!!" );
-    {   System.out.println( "DevOps is a culture between Development and Operations teams!!!");
+    {
+   System.out.println( "DevOps is a culture between Development and Operations teams!!!");
     }
     }
     }
